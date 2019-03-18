@@ -1,0 +1,5 @@
+Situation:
+	The raspiberry pi is workig and funtional.
+- - - - -
+	It is functional and working because it has an operating system installed and well functioned cables are used. It also has a right right and correct voltage. The mouse and keyboard being connected is properly working.
+	In conclusion, with the right source, properly working devices, and installed with an operating system, the raspberry pi can be use as a well functioned microcomputer.

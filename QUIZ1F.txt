@@ -1,0 +1,14 @@
+Observation:
+	- The computer won't turn on.
+	- The LED indicator on the motherboard shows that it receives power.
+	- The fans is working.
+	- The computer shows no sign of receiving power or powering up.
+	- The computer gives no beeps signal.
+	- The fans on the motherboard turns on for only a few seconds then stops.
+	- We think that the power supply is not working well.
+
+Possible Solution/s:
+	- The fuse of the power supply needs to be replaced.
+	- Since the capacitor on the power supplyy "bloated", it also needs replacement.
+	- We think that the power supply is the problem, so we concluded that it needs replacement with a new power supply with same specifications.
+	- If it is still now working, the problem is with the motherboard. So better to check the motherboard and its parts for troubleshooting the problem/s.
